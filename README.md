@@ -12,5 +12,6 @@ https://sionut0122.github.io/businesstemplate/
 - React.js
 - Bootstrap
 - Javascript
-- SCSS
+- jQuery
+- SASS
 - React-router
